@@ -1,5 +1,5 @@
 
-import Cart from "./components/cart"
+import Cart from "./components/Cart"
 import Footer from "./components/Footer"
 import Navbar from "./components/Navbar"
 import Products from "./components/products"
