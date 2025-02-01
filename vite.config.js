@@ -13,6 +13,6 @@ export default defineConfig({
   server: {
     port: process.env.PORT || 10000, // Use the port from the environment variable or default to 3000
     host: '0.0.0.0', 
-    allowedHosts: ['shopingcart-1-3.onrender.com'], 
+    allowedHosts: ['shopingcart-1-4.onrender.com'], 
 }
 })
