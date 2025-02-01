@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { CartContext } from "./ContextProvider";
-import Cart from "./Cart";
+
 
 
 const Product = ({ product }) => {
