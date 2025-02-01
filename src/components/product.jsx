@@ -1,5 +1,7 @@
 import React, { useContext } from "react";
 import { CartContext } from "./ContextProvider";
+import Cart from "./cart";
+
 
 const Product = ({ product }) => {
   const{dispatch } = useContext(CartContext)
