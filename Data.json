@@ -8,15 +8,15 @@
         "title": "iPhone 9",
         "description": "An apple mobile which is nothing like apple",
         "price": 549,
-        "thumbnail": "",
+        "thumbnail": "././src/components/images/iphone-9.jpg",
          "quantity" : 1
       },
       {
         "id": 2,
         "title": "iPhone X",
-        "description": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwin6-n7uKKLAxU_pIMHHdBhDNsYABAFGgJlZg&ae=2&aspm=1&co=1&ase=5&gclid=CjwKCAiAqfe8BhBwEiwAsne6gbp8pIETFHmwEdghAUT6hUYRq7BG6WvndKfbJortcrZ-gwxkEdwvkBoCCnUQAvD_BwE&ohost=www.google.com&cid=CAESVeD2i85-9hsBGduWcxlaZRDL4P30ERGrgG3zfOsSIrC6ffXgHfwP6CyGVIcg65MAU2LTK8AfLo6clcMEG8-rxS-u3KJRpVTvHL9k_Mulg565tNk4iTI&sig=AOD64_2nU0CtQmlghDwOWn6scKLPuLaVYQ&ctype=5&q=&ved=2ahUKEwjQ5-T7uKKLAxVRnP0HHS1sFAQQ9aACKAB6BAgFEDo&adurl=",
+        "description": "",
         "price": 899,
-        "thumbnail": "./images/iphone-x.jpg",
+        "thumbnail": "./src/components/images/iphone-x.jpg",
         "quantity" : 1
       },
       {
@@ -25,7 +25,7 @@
         "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
         "price": 1249,
         "category": "smartphones",
-        "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+        "thumbnail": "././src/components/images/sumsung-universe.jpg",
         "quantity" : 1
       },
       {
@@ -33,7 +33,7 @@
         "title": "OPPOF19",
         "description": "OPPO F19 is officially announced on April 2021.",
         "price": 280,
-        "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+        "thumbnail": "././src/components/images/oppof19.jpg",
         "quantity" : 1
       },
       {
@@ -49,7 +49,7 @@
         "title": "MacBook Pro",
         "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
         "price": 1749,
-        "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+        "thumbnail": "././src/components/images/macbook.jpg",
         "quantity" : 1
       },
       {
@@ -57,7 +57,7 @@
         "title": "Samsung Galaxy Book",
         "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
         "price": 1499,
-        "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+        "thumbnail": "././src/components/images/samsung-glaxy-book.jpg",
         "quantity" : 1
       }
     ]
